@@ -1,0 +1,5 @@
+[
+  { "name": "David", "age": 27, "isStudent": true },
+  { "name": "Emily", "age": 32, "isStudent": false, "grades": [85, 90, 78] },
+  { "name": "Frank", "age": 40, "isStudent": false, "location": null }
+]
